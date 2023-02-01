@@ -34,7 +34,7 @@ Software :
 
 Hardware :
 * 1 x Modified Spiderino (for sensors data values). 
-* 1 x ESP8266 to receive sensor values from the Spiderino and give them to PC via serial. 
+* 2 x ESP8266 (1) to receive sensor values from the Spiderino and (2) give them to PC via serial. 
 * 1 x HDMI camera (used here is GOOKAM 4K WIFI camera)
 
 ## Usage
