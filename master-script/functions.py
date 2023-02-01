@@ -520,8 +520,8 @@ def rays_calculations(frame, grid_cm_ratio, sensor_center_distance, points_matri
   # Create a Grid instance
   grid = Grid(points_matrix)
 
-  nsensors = 4
-  theta = angle_cal +22.5
+  nsensors = 8
+  theta = angle_cal + 22.5
   x_snap,y_snap = grid.find_closest_node(spiderino_centroid)
   spiderino = Robot(Point(x_snap,y_snap),theta,nsensors)
 
