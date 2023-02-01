@@ -25,21 +25,17 @@ The goal of this project was to provide a model for IR sensors used on the Spide
 
 TODO : Link to report
 
-## Software prerequisites
+## Prerequisites
 
+Software :
 * Python 3.9
 * Scientific libraries (scikit-learn, numpy, pandas, matplotlib, seaborn, ...)
 * Tensorflow + Keras
 
-## Hardware prerequisites
-
+Hardware :
 * 1 x Modified Spiderino (for sensors data values). 
 * 1 x ESP8266 to receive sensor values from the Spiderino and give them to PC via serial. 
 * 1 x HDMI camera (used here is GOOKAM 4K WIFI camera)
-
-## Installation
-
-* Clone/Fetch repository
 
 ## Usage
 
