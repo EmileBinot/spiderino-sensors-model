@@ -46,8 +46,13 @@ TODO : Link to report
 * ``/3d-prints`` 3D prints models used in the process of designing the Modified Spiderino
 * ``/camera-calibration`` camera calibration thingies (checker board pictures + calibration script)
 * ``/master-script`` main scripts for dataset creation (see Dataset Creation section for details)
-* ``/modeling/Regression-colab.ipynb`` script for dataset modeling
-* ``/modeling/datasets/dataset_0312`` main/final dataset used for experiments
+* ``/modeling/`` dataset modeling
+  * ``/modeling/Regression-colab.ipynb`` script for dataset modeling
+  * ``/modeling/datasets/dataset_0312`` main/final dataset used for experiments
+* ``/spiderino-code/`` code for spiderino ESP8266, arduino pro mini and PC ESP8266
+  * ``/spiderino-code/MAC_RX`` PC ESP8266 code (Rx)
+  * ``/spiderino-code/MAC_TX`` spiderino ESP8266 code (Tx)
+  * ``/spiderino-code/prod_mini`` spiderino arduino pro mini code (sensors readings + motors control)
 
 
 ## Dataset Creation
