@@ -23,7 +23,8 @@ The goal of this project was to provide a model for IR sensors used on the Spide
 
 ## Reference
 
-TODO : Link to report
+Link to report : [report_spiderino-sensors-model.pdf](https://github.com/EmileBinot/spiderino-sensors-model/files/10567404/report_spiderino-sensors-model.pdf)
+
 
 ## Prerequisites
 
